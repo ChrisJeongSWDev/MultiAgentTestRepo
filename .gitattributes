@@ -1,0 +1,5 @@
+AF_LOGIC_SIM_2060907_Ver_0.5.zip filter=lfs diff=lfs merge=lfs -text
+VEOFocusLogicProc/VEOFocusAFLogicForm/bin/DLL/opencv_world4120.dll filter=lfs diff=lfs merge=lfs -text
+VEOFocusLogicProc/VEOFocusAFLogicForm/bin/x64/Debug/opencv_world4120.dll filter=lfs diff=lfs merge=lfs -text
+VEOFocusLogicProc/VEOFocusAFLogicForm/bin/x64/Debug/opencv_world4120d.dll filter=lfs diff=lfs merge=lfs -text
+VEOFocusLogicProc/VEOFocusAFLogicForm/bin/x64/Release/opencv_world4120.dll filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,6 @@
+C:\OpenCVImageProcessing\OpenCVUtilSharp\bin\Release\OpenCVUtilSharp.dll
+C:\OpenCVImageProcessing\OpenCVUtilSharp\bin\Release\OpenCVUtilSharp.pdb
+C:\OpenCVImageProcessing\OpenCVUtilSharp\obj\Release\OpenCVUtilSharp.csproj.AssemblyReference.cache
+C:\OpenCVImageProcessing\OpenCVUtilSharp\obj\Release\OpenCVUtilSharp.csproj.CoreCompileInputs.cache
+C:\OpenCVImageProcessing\OpenCVUtilSharp\obj\Release\OpenCVUtilSharp.dll
+C:\OpenCVImageProcessing\OpenCVUtilSharp\obj\Release\OpenCVUtilSharp.pdb

@@ -1,0 +1,6 @@
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\bin\Release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\bin\Release\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\Release\VEOImagingSolutionSharp.csproj.AssemblyReference.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\Release\VEOImagingSolutionSharp.csproj.CoreCompileInputs.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\Release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\Release\VEOImagingSolutionSharp.pdb

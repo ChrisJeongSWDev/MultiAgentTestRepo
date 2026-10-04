@@ -1,0 +1,36 @@
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\bin\x64\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\bin\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.csproj.AssemblyReference.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.csproj.CoreCompileInputs.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\Solution Dependancies\VEOImagingSolutionSharp.dll
+C:\Solution Dependancies\VEOImagingSolutionSharp.pdb
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildB\VEOImagingSolutionSharp.dll
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildB\VEOImagingSolutionSharp.pdb
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildC\VEOImagingSolutionSharp.dll
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildC\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\_codex_build_review\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\_codex_build_review\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\_codex_presentation_review\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\_codex_presentation_review\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\SharpParityDebug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\SharpParityDebug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review2\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review2\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\phase3-build\sharp-debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\phase3-build\sharp-debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\x64\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\AF_LOGIC_SIM\x64\Debug\VEOImagingSolutionSharp.dll
+C:\AF_LOGIC_SIM\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.csproj.AssemblyReference.cache
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.csproj.CoreCompileInputs.cache
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.dll
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\AF_LOGIC_SIM\VEOFocusLogicProc\VEOFocusAFLogicForm\bin\x64\Debug\VEOImagingSolutionSharp.dll
+C:\AF_LOGIC_SIM\VEOFocusLogicProc\VEOFocusAFLogicForm\bin\x64\Debug\VEOImagingSolutionSharp.pdb

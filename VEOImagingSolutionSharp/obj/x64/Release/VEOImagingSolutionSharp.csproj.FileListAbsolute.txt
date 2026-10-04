@@ -1,0 +1,22 @@
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\SharpParityRelease\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-build\SharpParityRelease\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review\Release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review\Release\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review2\Release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\veo-heightmap-refactor\phase2-review2\Release\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\artifacts\phase3-build\sharp-release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\artifacts\phase3-build\sharp-release\VEOImagingSolutionSharp.pdb
+C:\Solution Dependancies\VEOImagingSolutionSharp.dll
+C:\Solution Dependancies\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.csproj.AssemblyReference.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.csproj.CoreCompileInputs.cache
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.pdb
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.csproj.AssemblyReference.cache
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.csproj.CoreCompileInputs.cache
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.dll
+C:\AF_LOGIC_SIM\VEOImagingSolutionSharp\obj\x64\Release\VEOImagingSolutionSharp.pdb
+C:\AF_LOGIC_SIM\VEOFocusLogicProc\VEOFocusAFLogicForm\bin\x64\Release\VEOImagingSolutionSharp.dll
+C:\AF_LOGIC_SIM\VEOFocusLogicProc\VEOFocusAFLogicForm\bin\x64\Release\VEOImagingSolutionSharp.pdb

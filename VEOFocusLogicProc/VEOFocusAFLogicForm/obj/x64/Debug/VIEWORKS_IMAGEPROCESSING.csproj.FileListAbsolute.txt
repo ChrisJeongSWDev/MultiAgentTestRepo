@@ -1,0 +1,209 @@
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Vieworks_AFTS.resources
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Properties.Resources.resources
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.GenerateResource.cache
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.CoreCompileInputs.cache
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.ValueTuple.dll
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.ValueTuple.xml
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.AssemblyReference.cache
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS.D591DC7B.Up2Date
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.pdb
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.dll.config
+C:\Development Codes\기타 라이브러리\영상처리 테스트 프로그램\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.AssemblyReference.cache
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Vieworks_AFTS.resources
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Properties.Resources.resources
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.GenerateResource.cache
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.CoreCompileInputs.cache
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x86\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\riscv64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\loongarch64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-x64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-arm\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-arm64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-riscv64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\libSkiaSharp.dylib
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x86\libSkiaSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x64\libSkiaSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm64\libSkiaSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\HarfBuzzSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.WinForms.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.HarfBuzz.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\HarfBuzzSharp.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCVUtilSharp.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.WinForms.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.pdb
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.dll.config
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS.D591DC7B.Up2Date
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes\기타 라이브러리\ImageProcessing\OpenCVLIbraryTest\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x86\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\riscv64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\loongarch64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-x64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-arm\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-arm64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-riscv64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\libSkiaSharp.dylib
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x86\libSkiaSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\x64\libSkiaSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\arm64\libSkiaSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\HarfBuzzSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.WinForms.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.HarfBuzz.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\HarfBuzzSharp.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenCVUtilSharp.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\OpenTK.GLControl.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\ScottPlot.WinForms.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Buffers.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Drawing.Common.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Memory.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.pdb
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.dll.config
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.AssemblyReference.cache
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Vieworks_AFTS.resources
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Properties.Resources.resources
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.GenerateResource.cache
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.CoreCompileInputs.cache
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS.D591DC7B.Up2Date
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe
+C:\Development Codes_Github\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.pdb
+C:\Solution Dependancies\VIEWORKS_AFTS.exe.config
+C:\Solution Dependancies\VIEWORKS_AFTS.exe
+C:\Solution Dependancies\VIEWORKS_AFTS.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.exe
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_AFTS.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\FrameMapViewer.dll
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VEOImagingSolutionSharp.dll
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.dll
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\FrameMapViewer.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VEOImagingSolutionSharp.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\bin\x64\Debug\VIEWORKS_VIEWER_LIB.dll.config
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildC\VIEWORKS_AFTS.exe.config
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildC\VIEWORKS_AFTS.exe
+C:\Users\2021670\AppData\Local\Temp\claude\C--Users-2021670-Documents---------Claude-Orchestrator\cd544800-1eb4-4492-9e42-a711783540fa\scratchpad\buildC\VIEWORKS_AFTS.pdb
+C:\OpenCVImageProcessing\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\OpenCVImageProcessing\x64\Debug\VIEWORKS_AFTS.exe
+C:\OpenCVImageProcessing\x64\Debug\VIEWORKS_AFTS.pdb
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.AssemblyReference.cache
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.SuggestedBindingRedirects.cache
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe.config
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.ImagingLogicForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.ImagingIntegratorForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.VIEWERForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.AFLogicTestForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS._3DImagingForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS._3DReconstructionForm.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Vieworks_AFTS.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.Properties.Resources.resources
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.GenerateResource.cache
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_IMAGEPROCESSING.csproj.CoreCompileInputs.cache
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS.D591DC7B.Up2Date
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe
+C:\OpenCVImageProcessing\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.pdb
+C:\OpenCVImageProcessing\_codex_build_review\VIEWORKS_AFTS.exe.config
+C:\OpenCVImageProcessing\_codex_build_review\VIEWORKS_AFTS.exe
+C:\OpenCVImageProcessing\_codex_build_review\VIEWORKS_AFTS.pdb
+C:\AF_LOGIC_SIM\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.exe
+C:\AF_LOGIC_SIM\VIEWORKS_IMAGEPROC_TEST_IMAGING_TOOL\VIEWORKS_AFTS\obj\x64\Debug\VIEWORKS_AFTS.pdb
